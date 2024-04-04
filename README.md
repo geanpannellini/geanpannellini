@@ -18,11 +18,13 @@ Data Visualization:
 Data Modeling:
 [![dbt](https://img.shields.io/badge/dbt-6C6672?style=flat&logo=dbt&logoColor=white&color=orange)](https://www.getdbt.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-FF813D?style=flat&logo=databricks&logoColor=white&color=red)](https://databricks.com/)
+[![DuckDB](https://img.shields.io/badge/DuckDB-009B8E?style=flat&logo=duckduckgo&logoColor=white)](https://www.duckdb.org/)
 
 Cloud Services and Others:
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white&color=blueviolet)](https://github.com/features/actions)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 Languages and Code Libraries:
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)]()
