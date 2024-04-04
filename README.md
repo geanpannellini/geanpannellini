@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a versatile professional with a background in Data {Engineering and Analytics}, complemented by a degree in Business Management. My journey in the data field is fueled by a  passion for building datapipelines, driving decisions through analytics and uncovering insights. My academic and professional journey has been enriched by diverse experiences, including immersive exchange programs in Italy(6 months), Argentina(2 months), Canada(2 months), which have broadened my perspective and honed my intercultural skills.
+I am a versatile professional with a background in Data {Engineering and Analytics}, complemented by a degree in Business Management. My journey in the data field is fueled by a  passion building datapipelines, driving decisions through analytics and uncovering insights. My academic and professional journey has been enriched by diverse experiences, including immersive exchange programs in Italy(6 months), Argentina(2 months), Canada(2 months), which have broadened my perspective and honed my intercultural skills.
 
 I have 5+ years of work experience at a prominent Brazilian prop-tech startup and software-as-a-service company, involved in data-driven strategies and solutions. 
 
