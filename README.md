@@ -6,7 +6,7 @@ I have 5+ years of work experience at a prominent Brazilian prop-tech startup an
 
 I'm 🏢 currently working at BHub (1st Backoffice as a Service startup in LatAm. BHub allows founders to focus on their core, while we deal with the rest.
 
-I'm currently based in 🇧🇷 Brazil
+I'm based out of 🇧🇷 Brazil
 
 ## 💻 Skills and Technologies
 
