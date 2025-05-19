@@ -4,8 +4,6 @@ I am a versatile professional with a background in Data {Engineering and Analyti
 
 I have 6+ years of work experience at a prominent Brazilian prop-tech startup and software-as-a-service company, involved in data-driven strategies and solutions. 
 
-I'm 🏢 currently working at Andela (We are a global talent marketplace connecting highly skilled tech talents from emerging markets with global technology organisations and enterprises seeking remote technologists).
-
 I'm based out of 🇧🇷 Brazil
 
 ## 💻 Skills and Technologies
